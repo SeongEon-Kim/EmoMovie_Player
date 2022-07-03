@@ -212,6 +212,6 @@ def create_app(test_config=None):
 # export FLASK_APP=app
 # export FLASK_ENV=development
 # export APP_CONFIG_FILE=C:\PROJECT\EMO_MOVIE_PROJECT\EMO_MOVIE\api\config\devel.py
-# export APP_CONFIG_FILE=/Users/gimseong-eon/Downloads/EMO_PLAYER_SE/api/config/devel.py
+# export APP_CONFIG_FILE=/Users/gimseong-eon/Desktop/EMO_PLAYER_SE/api/config/devel.py
 
 
